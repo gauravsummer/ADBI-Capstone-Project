@@ -1,7 +1,7 @@
 # ADBI-Capstone-Project
 The repository for the capstone project for course 591.
 
-****Contributors:**** Satvik Shetty, Ashis Kumar Sahoo, Gaurav Joshi
+****Contributors:**** Gaurav Joshi, Satvik Shetty, Ashis Kumar Sahoo
 
 ****Objective:**** In this project, we attempt to perform a Multi-Label Text Classification on news articles. The comprehensive dataset is provided by The Guardian (news agency) and is a data challenge called Growing Instability. 
 https://www.datasciencechallenge.org/challenges/2/growing-instability/ 
